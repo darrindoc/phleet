@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phleet", "Phleet.csproj", "{5F853DFA-7263-4E61-A279-A458870D5FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F853DFA-7263-4E61-A279-A458870D5FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F853DFA-7263-4E61-A279-A458870D5FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F853DFA-7263-4E61-A279-A458870D5FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F853DFA-7263-4E61-A279-A458870D5FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {294C4333-0B02-46F7-8304-75A8D7D8D255}
+	EndGlobalSection
+EndGlobal
